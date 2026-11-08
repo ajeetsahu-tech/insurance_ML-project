@@ -5,9 +5,8 @@
 This project focuses on performing Exploratory Data Analysis (EDA) and Data Preprocessing on an Insurance dataset using Python.
 
 The main objective of this project is to understand the dataset, explore meaningful patterns, identify data quality issues, and prepare clean and structured data for Machine Learning model development.
-
-####### Code --> MLProject_note.ipynb
-####### Data --> insurance_cleaned.csv
+ Code --> MLProject_note.ipynb
+ Data --> insurance_cleaned.csv
 
 ## 🎯 Objectives
 
